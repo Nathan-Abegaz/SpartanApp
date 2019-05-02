@@ -10,7 +10,7 @@ import UIKit
 
 class AcademicsViewController: UIViewController, UITableViewDataSource,UITableViewDelegate {
    
-    let academics: [String] = ["Art","Buisness","Engineering","Biological Sciences"]
+    let academics: [String] = ["Art Club","Buisness Club","Computer Engineering Club","Robotics Club"]
 
     override func viewDidLoad() {
         super.viewDidLoad()
